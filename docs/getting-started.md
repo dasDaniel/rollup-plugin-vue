@@ -14,4 +14,4 @@ export default {
 }
 ```
 
-That's all you need! You can customize this plugin's behavior by passing it an optional [options object](/options.html).
+That's all you need! You can customize this plugin's behavior by passing it an optional [options object](/options.md).
